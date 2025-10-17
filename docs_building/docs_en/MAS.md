@@ -22,7 +22,7 @@ No return Value.
 
 ## 2.3 Execution Process
 
-![](MAS/figure/Intinalization Process.png)
+![Intinalization Process.png](../images/Intinalization%20Process.png)
 
 ### 2.3.1 Oxy Agent Registration
 
@@ -70,7 +70,7 @@ In MAS, interaction with the agent is mainly conducted through the `chat_with_ag
 
 ## 3.3 Execution Process
 
-<img src="MAS/figure/chat_with_agent interact process.png" alt="chat_with_agent interact process" style="zoom: 67%;" />
+![chat_with_agent interact process.png](../images/chat_with_agent%20interact%20process.png)
 
 ### 3.3.1 Intialize Shared Data
 
